@@ -65,7 +65,9 @@ return solution;
 **Videos**
 
 Javascript: https://www.youtube.com/watch?v=AXaPmVMkVAE&list=PLY5pAT_51eGyo4ixvdZgzY57N0_R1QMtb&index=10
+
 Java: https://www.youtube.com/watch?v=1JDh9O7GDyA
+
 **Leetcode Problem**
 
 https://leetcode.com/problems/assign-cookies/
