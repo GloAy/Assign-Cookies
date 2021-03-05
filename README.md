@@ -52,7 +52,7 @@ s.sort((a,b) => a-b)
 //look at the cookie size
 for(let cookieSize of s){
   //check if the child gets a cookie
-  if(cookieSize >= g[greedIndex]{
+  if(cookieSize >= g[greedIndex]){
     solution++
     greedIndex++
    }
